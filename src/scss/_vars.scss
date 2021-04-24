@@ -1,0 +1,16 @@
+:root {
+  //  colors
+  --color-black: #000;
+  --color-white: #fff;
+  --color-eastbay: #484283;
+  --color-accent: #f14f4f;
+
+  //  indent
+  --grid-gap: 20px;
+  --main-offset: 40px;
+
+  //  fonts
+  --font-family: "Intro", sans-serif;
+  --small-font: 400 14px / 140% var(--font-family);
+  --middle-hight-font: 700 30px / 140% var(--font-family);
+}
